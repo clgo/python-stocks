@@ -1,0 +1,17 @@
+certifi==2018.4.16
+chardet==3.0.4
+fix-yahoo-finance==0.0.22
+idna==2.7
+lxml==4.2.3
+multitasking==0.0.7
+numpy==1.15.0
+pandas==0.22.0
+pandas-datareader==0.6.0
+python-dateutil==2.7.3
+pytz==2018.5
+requests==2.19.1
+requests-file==1.4.3
+requests-ftp==0.3.1
+six==1.11.0
+urllib3==1.23
+wrapt==1.10.11
